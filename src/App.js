@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import biscoito from './assets/biscoito.png';
-import './styles.css'
+import './style.css'
 
 class App extends Component{
 
